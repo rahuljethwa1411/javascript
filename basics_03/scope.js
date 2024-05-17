@@ -20,3 +20,11 @@ if (true) {
 }
 
 console.log(b);
+
+
+// ++++++++++++++++++INTERESTING++++++++++++++++++++===//
+
+function addOne(num) {
+      return num + 1
+} 
+console.log(addOne(5));
